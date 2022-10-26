@@ -2,7 +2,8 @@
 title: "DragonEats"
 date: 2022-10-25T09:18:38-07:00
 draft: false
-tags: ['thaitea', 'dragoneats']
+categories: ['Review']
+tags: ['thaitea', 'dragoneats', 'reviews']
 ---
 
 Let me get this straight... Your first review on a "boba blog" is of a drink that doesn't have boba... from store that doesn't sell boba? Sacriligious! Deception! 
@@ -17,9 +18,9 @@ Let's get the rough out of the way. Spend 5 minutes with a paper straw, and your
 
 Onto the diamond. Thai iced tea has a distinct flavor– one I may fawn over often in this blog. There are a few central elements, simple yet essential, that makes a good thai iced tea _good_. The color must be that of a deep and vibrant orange of a burnt clay. The flavor should be bold and confident, offering tones of an earthy cinnamon and mellow vanilla. Like an old opera singer, a thai iced tea should sing different notes, at different pitches, with a rich story to tell behind each. DragonEats has every one of these for a perfectly sweet, deep, and balanced tea symphony.
 
-Something must be said about the visuals as well. The tea is served in a clear ready-made cup. Beginning with a strong shade of dark brown, the staff adds in half-and-half, after which you watch as the cream cascades down, between ice cubes, blending into the dark tea abyss. With a quick swirl it becomes that gorgeous thai orange color.
+Something must be said about the visuals as well. The tea is served in a clear ready-made cup. Beginning with a strong shade of dark brown, the staff adds in half-and-half which cascades down, between ice cubes, blending into the dark tea abyss. With a quick swirl it becomes that gorgeous a iconic thai orange color.
 
-DragonEats serves their tea with half-and-half. I admit I think that condensed milk provides an additional note to the drink that makes it all the more rich. This thai tea, though, does not feel lacking for having used half-and-half.
+DragonEats serves their tea with half-and-half. I admit, in my view, condensed milk provides a complementary note to the drink that makes it all the more rich. That being said, this thai tea does not feel lacking in any element for having used half-and-half.
 
 Overall a wonderfully strong thai iced tea with an otherworldly price for San Francisco.
 
