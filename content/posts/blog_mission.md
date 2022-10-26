@@ -3,6 +3,7 @@ title: "Blog Mission"
 date: 2022-10-25T08:20:26-07:00
 draft: false
 tags: ['blogmission', 'map']
+description: "Blog Goals"
 ---
 ### A Blank Canvas
 
