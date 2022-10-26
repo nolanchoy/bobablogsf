@@ -31,4 +31,5 @@ Taste: 9/10
 
 Straw: flaccid/10
 
+View Location, Yelp Links, and other reviews on my <a href="../../map">map!</a><br>
 Notes: Opening Date for Haight location was 2016 I believe, but the business registry is 2019, which is the date displayed in the map.
