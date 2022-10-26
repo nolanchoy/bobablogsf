@@ -25,12 +25,12 @@ menu:
         map.html: /map/
     - identifier: contact
       name: Contact
-      url: /contact/
+      url: /contact/contact/
       weight: 40
 
 params:
   img_home: "img/mae-mu-kLb38GS_XSU-unsplash.png"
-#  header_image: "img/mae-mu-kLb38GS_XSU-unsplash.png"
+  img_404: "img/tyler-nix-ArW7pJRYw7Q-unsplash.jpg"
   useFaviconGenerator: true
 
 markup:

@@ -1,7 +1,6 @@
 ---
 title: "Contact"
 date: 2022-10-25T14:43:01-07:00
-layout: "single"
 ---
 
 You can contact me here!
