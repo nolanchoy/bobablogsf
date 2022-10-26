@@ -4,7 +4,7 @@ date: 2022-10-25T09:18:38-07:00
 draft: false
 categories: ['Review']
 tags: ['thaitea', 'dragoneats', 'reviews']
-description: "DragonEats Review"
+description: "DragonEats Tea Review"
 ---
 
 Let me get this straight... Your first review on a "boba blog" is of a drink that doesn't have boba... from store that doesn't sell boba? Sacriligious! Deception! 
