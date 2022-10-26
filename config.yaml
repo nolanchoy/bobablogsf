@@ -2,3 +2,38 @@ baseURL: "/"
 languageCode: en-us
 title: Boba Blog SF
 theme: puppet
+
+menu:
+  main:
+    - identifier: "home"
+      name: "Home"
+      url: "/"
+      weight: -100
+    - identifier: blog
+      name: Blog
+      url: /posts/
+      weight: 10
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 20
+    - identifier: map
+      name: Map
+      url: /map.html/
+      weight: 30
+      permalinks:
+        map.html: /map/
+    - identifier: contact
+      name: Contact
+      url: /contact/
+      weight: 40
+
+params:
+  img_home: "img/mae-mu-kLb38GS_XSU-unsplash.png"
+#  header_image: "img/mae-mu-kLb38GS_XSU-unsplash.png"
+  useFaviconGenerator: true
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true

@@ -1,0 +1,45 @@
+---
+title: "Contact"
+date: 2022-10-25T14:43:01-07:00
+layout: "single"
+---
+
+You can contact me here! Leave your comment below:
+
+<html lang="en">
+<form method="post" action="https://forms.un-static.com/forms/5d3d7a48d5e3f80f6105bba5c2318d4b2cb4d17a">
+  <div class="form-group row">
+    <label for="name" class="col-4 col-form-label">Name</label>
+    <div class="col-8">
+      <div class="input-group">
+        <div class="input-group-addon">
+          <i class="fa fa-user"></i>
+        </div>
+        <input id="name" name="name" placeholder="Please enter your name" type="text" required="required" class="form-control">
+      </div>
+    </div>
+  </div>
+  <div class="form-group row">
+    <label for="email" class="col-4 col-form-label">E-mail address</label>
+    <div class="col-8">
+      <div class="input-group">
+        <div class="input-group-addon">
+          <i class="fa fa-envelope"></i>
+        </div>
+        <input id="email" name="email" placeholder="Your e-mail address" type="text" required="required" class="form-control">
+      </div>
+    </div>
+  </div>
+  <div class="form-group row">
+    <label for="message" class="col-4 col-form-label">Message</label>
+    <div class="col-8">
+      <textarea id="message" name="message" cols="40" rows="10" required="required" class="form-control"></textarea>
+    </div>
+  </div>
+  <div class="form-group row">
+    <div class="offset-4 col-8">
+      <button name="submit" type="submit" class="btn btn-primary">Send</button>
+    </div>
+  </div>
+</form>
+</html>

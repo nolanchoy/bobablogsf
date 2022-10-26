@@ -1,0 +1,32 @@
+---
+title: "DragonEats"
+date: 2022-10-25T09:18:38-07:00
+draft: false
+tags: ['thaitea', 'dragoneats']
+---
+
+Let me get this straight... Your first review on a "boba blog" is of a drink that doesn't have boba... from store that doesn't sell boba? Sacriligious! Deception! 
+
+Let the scandals and the gossip fly, for they hold no bearing over me. I will speak this truth: from price to taste, DragonEats' Thai Iced Tea fires on all cylinders and is an audacious rebuttal to all the bloated priced boba drinks around the Bay Area.
+
+### Everything Everywhere All At Once
+If there are infinite universes and infinite possibilities, then DragonEats' Thai Iced Tea exists in an alternate timeline where Covid-19 never happened and price inflation is but a myth. By some divine intervention, the $4 price tag seen from 2018 menu pictures has remained consistent through to 2022 (knock on wood). Around the Bay, the standard price for a good thai iced tea is $5. Any less and one might expect lesser quality or taste. Yet DragonEats proves that $5 is not the price floor for good tea in the Bay.  Maybe more an indication of the price levels in San Francisco, but I would be hard-pressed to find any other boba/tea drink at this price-point for this quality.
+
+### Diamond In The Rough
+Let's get the rough out of the way. Spend 5 minutes with a paper straw, and you joy will turn as soggy as the straw. There is no beating around the bush. I do not enjoy sipping out of a limp noodle. Nobody does. In any universe or any timeline.
+
+Onto the diamond. Thai iced tea has a distinct flavor– one I may fawn over often in this blog. There are a few central elements, simple yet essential, that makes a good thai iced tea _good_. The color must be that of a deep and vibrant orange of a burnt clay. The flavor should be bold and confident, offering tones of an earthy cinnamon and mellow vanilla. Like an old opera singer, a thai iced tea should sing different notes, at different pitches, with a rich story to tell behind each. DragonEats has every one of these for a perfectly sweet, deep, and balanced tea symphony.
+
+Something must be said about the visuals as well. The tea is served in a clear ready-made cup. Beginning with a strong shade of dark brown, the staff adds in half-and-half, after which you watch as the cream cascades down, between ice cubes, blending into the dark tea abyss. With a quick swirl it becomes that gorgeous thai orange color.
+
+DragonEats serves their tea with half-and-half. I admit I think that condensed milk provides an additional note to the drink that makes it all the more rich. This thai tea, though, does not feel lacking for having used half-and-half.
+
+Overall a wonderfully strong thai iced tea with an otherworldly price for San Francisco.
+
+Price: 10/10
+
+Taste: 9/10
+
+Straw: flaccid/10
+
+Notes: Opening Date for Haight location was 2016 I believe, but the business registry is 2019, which is the date displayed in the map.
