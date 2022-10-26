@@ -33,6 +33,7 @@ params:
   img_404: "img/tyler-nix-ArW7pJRYw7Q-unsplash.jpg"
   useFaviconGenerator: true
   description: A blog to stay up to date about San Francisco boba and boba-adjacent drink
+  keywords: "blog,boba,san francisco,bubble tea,tea,personal"
 
   sidebar:
     enable: true
