@@ -33,6 +33,10 @@ params:
   img_404: "img/tyler-nix-ArW7pJRYw7Q-unsplash.jpg"
   useFaviconGenerator: true
 
+  sidebar:
+    enable: true
+    avatar: "img/bubble-tea.png"
+
 markup:
   goldmark:
     renderer:

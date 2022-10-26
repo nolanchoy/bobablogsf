@@ -1,16 +1,19 @@
 ---
-title: "About"
+title: "About Me"
 date: 2022-10-25T12:41:49-07:00
 draft: false
 ---
-My name is Nolan. I live in San Francisco.
+My name is Nolan. Welcome to my blog!
+
+Imagine a young 22 year old Batman, veins pumping with hot vigilante blood. Instead of heir to a billion dollar fortune, a day job as a data analyst. And by night, rather than serving up knuckle sandwiches to the city's criminal underworld, an even deeper, darker, more repressed burden he carries- boba enthusiast. What you have imagined is not Gotham's Batman but San Francisco's very own Bobaman. That man is me. This is my story.
 
 <br><br>
-#### Image Attributions:
 <small>
+#### Image Attributions:
 Home Image:
 Photo by 
 <a href="https://unsplash.com/@picoftasty?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Mae Mu</a> on <a href="https://unsplash.com/s/photos/milk-tea?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a><br>
 Icon:
 <a href="https://www.flaticon.com/free-icons/bubble-tea" title="bubble tea icons">Bubble tea icons created by justicon - Flaticon</a>
+<br>Profile: <a href="https://www.flaticon.com/free-icons/bubble-tea" title="bubble tea icons">Bubble tea icons created by Freepik - Flaticon</a>
 </small>
