@@ -15,6 +15,6 @@ The plan for this blog is 1 post per week, for a total of 52 posts per year. 52 
 
 ### Charted Waters
 
-There is a boba map currently accessible in the main menu (top-right) that links to an interactive map. This is where you can find information about recent shop openings and shop locations around the bay. The main municipal focus will be San Francisco as that is within the purview of the opening date database I have joined with Yelp data. 
+There is a <a href="../../map">boba map</a> currently accessible in the main menu that links to an interactive map. This is where you can find information about recent shop openings and shop locations around the bay. The main municipal focus will be San Francisco as that is within the purview of the opening date database I have joined with Yelp data. 
 
 Underlying data for this map will be updated monthly, along with marking reviewed locations on the map. The Yelp API may tag shops unrelated to boba so if there are any markers that should not belong, feel free to send a message to blog@bobablogsf.com with any notes. Additionally, if there is any shop that is missing feel free to also send a message my way.
