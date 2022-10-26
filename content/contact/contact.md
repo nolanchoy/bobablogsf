@@ -4,7 +4,7 @@ date: 2022-10-25T14:43:01-07:00
 layout: "single"
 ---
 
-You can contact me here! Leave your comment below:
+You can contact me here!
 
 <html lang="en">
 <form method="post" action="https://forms.un-static.com/forms/5d3d7a48d5e3f80f6105bba5c2318d4b2cb4d17a">
