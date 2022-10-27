@@ -1,5 +1,5 @@
 ---
-title: "DragonEats"
+title: "DragonEats Review"
 date: 2022-10-25T09:18:38-07:00
 draft: false
 categories: ['Review']
@@ -31,5 +31,9 @@ Taste: 9/10
 
 Straw: flaccid/10
 
-View the location, yelp links, and other reviews on my <a href="../../map">map!</a><br>
-Notes: Opening Date for Haight location was 2016 I believe, but the business registry is 2019, which is the date displayed in the map.
+<hr class="solid" style ="border-top: 2px solid #bbb">
+View the location, yelp link, and other boba reviews on my <a href="../../map">map!</a><br>
+
+<small>
+    Notes: Opening Date for Haight location was 2016 I believe, but the business registry is 2019, which is the date displayed in the map.
+</small>
