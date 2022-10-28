@@ -31,7 +31,7 @@ The Classic Black milk tea tastes like good black milk tea. When you put togethe
 
 Boba at boba guys has consistently had of some of the best quality boba pearls I’ve had in the Bay Area. Thickness, chewiness, tenderness, and with a hint of honey; every little aspect counts in distinguishing great boba from good boba. Boba Guys maxes out in all categories. This is where good tea, good milk, and great boba, becomes larger than the sum of its parts. No one part can shine to its potential should any other component be lacking. Boba Guys nails all.
 
-The crown jewel for this chain is the strawberry matcha latte. Bright and earthy matcha layered atop quality milk layered atop house-made strawberry puree, this triple-tiered drink proves yet again that simplicity and quality ingredients reign supreme. I, myself, have taken to avoid mixing the drink to take in each flavor separately. A sip of matcha, of milk, or of strawberry and boba, or a blend, it matters not– this drink is an absolute must-try for anyone in need for a refreshing companion for their day.
+The crown jewel for this chain is the strawberry matcha latte. Bright and earthy matcha layered atop quality milk layered atop house-made strawberry puree, this triple-tiered drink proves yet again that simplicity and quality ingredients reign supreme. I, myself, have taken to avoid mixing the drink to appreciate each flavor separately. A sip of matcha, of milk, or of strawberry and boba, or a blend, it matters not– this drink is an absolute must-try for anyone in need for a refreshing companion for their day.
 
 <img alt="Strawberry Matcha Latte" src="/img/bobaguys2.png"
      width="200" 
