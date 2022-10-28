@@ -11,8 +11,8 @@ Let me get this straight... Your first review on a "boba blog" is of a drink tha
 
 Let the scandals and the gossip fly, for they hold no bearing over me. I will speak this truth: from price to taste, DragonEats' Thai Iced Tea fires on all cylinders and is an audacious rebuttal to all the bloated priced boba drinks around the Bay Area.
 
-### Everything Everywhere All At Once
-If there are infinite universes and infinite possibilities, then DragonEats' Thai Iced Tea exists in an alternate timeline where Covid-19 never happened and price inflation is but a myth. By some divine intervention, the $4 price tag seen from 2018 menu pictures has remained consistent through to 2022 (knock on wood). Around the Bay, the standard price for a good thai iced tea is $5. Any less and one might expect lesser quality or taste. Yet DragonEats proves that $5 is not the price floor for good tea in the Bay.  Maybe more an indication of the price levels in San Francisco, but I would be hard-pressed to find any other boba/tea drink at this price-point for this quality.
+### Multiverse of Cheapness
+If there are infinite universes and infinite possibilities, then DragonEats' Thai Iced Tea exists in an alternate timeline where Covid-19 never happened and price inflation is but a myth. By some divine intervention, the $4 price tag seen from 2018 menu pictures has remained consistent through to 2022 (knock on wood). Around San Francisco, the standard price for a good thai iced tea is $5. Any less and one might expect lesser quality or taste. Yet DragonEats proves that $5 is not the price floor for good tea in the Bay.  Maybe more an indication of the price levels in San Francisco, but I would be hard-pressed to find any other boba/tea drink at this price-point for this quality.
 
 ### Diamond In The Rough
 Let's get the rough out of the way. Spend 5 minutes with a paper straw, and your joy will turn as soggy as the straw. There is no beating around the bush. I do not enjoy sipping out of a limp noodle. Nobody does. In any universe or any timeline.
