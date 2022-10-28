@@ -1,5 +1,5 @@
 ---
-title: "Boba Guys"
+title: "Boba Guys Review"
 date: 2022-10-27T17:52:14-07:00
 draft: false
 categories: ['Review']
