@@ -19,6 +19,8 @@ There exists a “vibes” spectrum in which all San Francisco bubble tea shops 
 
 It’s that same unoffending look, though, that lacks a bit of soul — the one that panders to everyone and no one at the same time, oozing a shade of the sterile tech-bro culture (or lack thereof) sweeping major cities. Tis’ a struggle at the heart of any growing city and perhaps a topic for another post.
 
+![Boba Guys](/static/img/bubble-tea.png)
+
 ### Quality above all
 
 Simplicity allows the quality of the ingredients to take the spotlight. This is the unifying theme across all of Boba Guys’s drinks. Each drink, sans toppings, can be broken down into 3 ingredients at most– no extravagant concoctions here. And the simplicity of the drinks allows each ingredient’s flavor to take center stage.
@@ -36,7 +38,7 @@ $5.70 for a Classic Black with boba. I define Boba Guys as the standard at which
 
 ### Conclusion
 
-The holy grail can provide everlasting life. But choose the wrong chalice and your life may very well end (<a href="https://youtu.be/LRSjKfvm368?t=10">me drinking bad boba </a>). More often than not, I am not looking for life or death boba. With the price of boba reaching $6 or $7, a bad drink, rather than complementing a beautiful day, can set it sour. So come time to pick a chalice, should I know a certain cup will always hold nothing but plain water, but damn good water at that, no shame shall I have in picking up the glass and guzzling it down every time.
+The holy grail can provide everlasting life. But choose the wrong chalice and your life may very well end (<a href="https://youtu.be/LRSjKfvm368?t=10">me drinking bad boba</a>). More often than not, I am not looking for life or death boba. With the price of boba reaching $6 or $7, a bad drink, rather than complementing a beautiful day, can set it sour. So come time to pick a chalice, should I know a certain cup will always hold nothing but plain water, but damn good water at that, no shame shall I have in picking up the glass and guzzling it down every time.
 
 Boba Guys makes good boba look trivial. But after having had bad boba after bad boba across the country, clearly it is not so. So when I go out and I have a craving for boba, I need look no further than boba guys for a good cup. Boba Guys sets the bar high for the bare basics.
 
