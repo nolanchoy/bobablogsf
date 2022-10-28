@@ -19,7 +19,9 @@ There exists a “vibes” spectrum in which all San Francisco bubble tea shops 
 
 It’s that same unoffending look, though, that lacks a bit of soul — the one that panders to everyone and no one at the same time, oozing a shade of the sterile tech-bro culture (or lack thereof) sweeping major cities. Tis’ a struggle at the heart of any growing city and perhaps a topic for another post.
 
-![Boba Guys](/static/img/bubble-tea.png)
+<img alt="Boba Guys" src="/img/bobaguys.png"
+     width="200" 
+     height="300"/>
 
 ### Quality above all
 
