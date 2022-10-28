@@ -33,6 +33,10 @@ Boba at boba guys has consistently had of some of the best quality boba pearls I
 
 The crown jewel for this chain is the strawberry matcha latte. Bright and earthy matcha layered atop quality milk layered atop house-made strawberry puree, this triple-tiered drink proves yet again that simplicity and quality ingredients reign supreme. I, myself, have taken to avoid mixing the drink to take in each flavor separately. A sip of matcha, of milk, or of strawberry and boba, or a blend, it matters not– this drink is an absolute must-try for anyone in need for a refreshing companion for their day.
 
+<img alt="Strawberry Matcha Latte" src="/img/bobaguys2.png"
+     width="200" 
+     height="300"/>
+
 Some other the other drinks are on the menu (Hong Kong Style, Thai Iced Tea, and Black Sesame Latte) are a calibre lower. Though certainly not bad drinks in their own right, and I doubt have bad quality ingredients, they are a step down in the same depth of flavor and power of the ingredients that the prior two mentions have.
 
 ### Price
@@ -52,7 +56,9 @@ Taste: 8/10
 
 Boba: 10/10
 
-Price 7/10
+Price: 7/10
+
+Straw: Bamboo/10
 
 <hr class="solid" style ="border-top: 2px solid #bbb">
 View the location, yelp link, and other boba reviews on my <a href="../../map">map!</a><br>
