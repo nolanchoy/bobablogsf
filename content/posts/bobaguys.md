@@ -37,7 +37,7 @@ The crown jewel for this chain is the strawberry matcha latte. Bright and earthy
      width="200" 
      height="300"/>
 
-Some other the other drinks are on the menu (Hong Kong Style, Thai Iced Tea, and Black Sesame Latte) are a calibre lower. Though certainly not bad drinks in their own right, and I doubt have bad quality ingredients, they are a step down in the same depth of flavor and power of the ingredients that the prior two mentions have.
+Other drinks on the menu (Hong Kong Style, Thai Iced Tea, and Black Sesame Latte) are a calibre lower. Though certainly not bad drinks in their own right, and I doubt have bad quality ingredients, they are a step down in the same depth of flavor and power of the ingredients that the prior two mentions have.
 
 ### Price
 $5.70 for a Classic Black with boba. I define Boba Guys as the standard at which I can attain good boba and tea at a reasonable price. Therefore, Boba Guys is well priced for San Francisco.
