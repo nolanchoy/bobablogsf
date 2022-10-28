@@ -11,8 +11,6 @@ The sun rises upon a new day, this early morning of October 25th, and with it a 
 
 My ultimate aim is for a well crafted record of my tea-laced escapades around the Bay so that in my retirement of this site (should there ever be one), there should hold a pristine history of my travels for all future generations of boba lovers to come–a Library of Alexandria of boba of sorts. And to those future audiences who may drift in and out of this site, I promise you no objective journalism, but only the raw passion that I have for this drink and my unfettered, unabashed, and unpurchased opinions. Big Boba and their cronies will never silence me!
 
-The plan for this blog is 1 post per week, for a total of 52 posts per year. 52 boba shops to visit? I pray for my wallet. I don’t even think I want boba that much.
-
 ### Charted Waters
 
 There is a <a href="../../map">boba map</a> currently accessible in the main menu that links to an interactive map. This is where you can find information about recent shop openings and shop locations around the bay. The main municipal focus will be San Francisco as that is within the purview of the opening date database I have joined with Yelp data. 

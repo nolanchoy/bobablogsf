@@ -46,7 +46,7 @@ $5.70 for a Classic Black with boba. I define Boba Guys as the standard at which
 
 The holy grail can provide everlasting life. But choose the wrong chalice and your life may very well end (<a href="https://youtu.be/LRSjKfvm368?t=10">me drinking bad boba</a>). More often than not, I am not looking for life or death boba. With the price of boba reaching $6 or $7, a bad drink, rather than complementing a beautiful day, can set it sour. So come time to pick a chalice, should I know a certain cup will always hold nothing but plain water, but damn good water at that, I'll have no shame in picking that glass and guzzling it down every time.
 
-Boba Guys makes good boba look trivial. But after having had bad boba after bad boba across the country, clearly it is not so. So when I go out and I have a craving for boba, I need look no further than boba guys for a good cup. Boba Guys sets the bar high for the bare basics.
+Boba Guys makes good boba look trivial. But after having had bad boba after bad boba across the country, clearly it is not so. So when I go out and I have a craving for boba, I need look no further than Boba Guys for a good cup. Boba Guys sets the bar high for the bare basics.
 
 Consistency: 9/10
 
