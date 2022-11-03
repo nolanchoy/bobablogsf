@@ -13,7 +13,7 @@ As a part of this series, I’ll be setting my own clearly-defined price guidanc
 
 This week I’ll be taking a look at Thai Iced Tea specifically, where I once made the bold assertion that you would be hard pressed to find one cheaper than the $4 DragonEats Thai Tea. 
 
-Below is an analysis on Thai Tea drinks from 62 vendors around the Bay Area with hand-validated prices.
+Below is an analysis on Thai Tea drinks from 63 vendors around the Bay Area with hand-validated prices.
 
 <img alt="Boba Guys" src="/img/bobaguys.png"
      width="200" 
