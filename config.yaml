@@ -23,10 +23,16 @@ menu:
       weight: 30
       permalinks:
         map.html: /map/
+    - identifier: bobalytics
+      name: Bobalytics
+      url: /bobalytics.html/
+      weight: 40
+      permalinks:
+        bobalytics.html: /bobalytics/
     - identifier: contact
       name: Contact
       url: /contact/
-      weight: 40
+      weight: 50
 
 params:
   img_home: "img/home.png"
