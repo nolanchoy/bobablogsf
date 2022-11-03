@@ -17,7 +17,7 @@ Boba Guys is maybe first and foremost a good franchise before it is a good boba 
 
 There exists a “vibes” spectrum in which all San Francisco bubble tea shops fit. On one end you have bubbly, colorful shops with 100 menu items mixing and matching your heart’s content of yogurt drinks, fruit teas, milk teas, puddings, and jellies, Taiwanese paraphernalia decorating the walls, and Chinese translations below menu items. On the other end you have Boba Guys, an all white and black store, with 8 standard menu items and 10 specialty drinks. Boba Guys embodies that sleek, clean look of a 3rd wave coffee shop, boiling down all the pop and culture of bubble tea to its bare bones. Inoffensive. It takes after the Shake Shack formula, offering a simple standard menu of high quality core offerings. What it does, it does well, with the same level of consistency and quality across all locations.
 
-It’s that same unoffending look, though, that lacks a bit of soul — the one that panders to everyone and no one at the same time, oozing a shade of the sterile tech-bro culture (or lack thereof) sweeping major cities. Tis’ a struggle at the heart of any growing city and perhaps a topic for another post.
+It’s that same unoffending look, though, that lacks a bit of soul — the one that panders to everyone and no one at the same time, oozing a shade of the sterile tech-bro culture (or lack thereof) sweeping major cities. Tis’ a struggle at the heart of any growing city and perhaps a topic for another time.
 
 <img alt="Boba Guys" src="/img/bobaguys.png"
      width="200" 
@@ -25,7 +25,7 @@ It’s that same unoffending look, though, that lacks a bit of soul — the one 
 
 ### Quality above all
 
-Simplicity allows the quality of the ingredients to take the spotlight. This is the unifying theme across all of Boba Guys’s drinks. Each drink, sans toppings, can be broken down into 3 ingredients at most– no extravagant concoctions here. And the simplicity of the drinks allows each ingredient’s flavor to take center stage.
+Simplicity allows the quality of the ingredients to take the spotlight. This is the unifying theme across all of Boba Guys’s drinks. Each drink, sans toppings, can be broken down into 3 ingredients at most– no extravagant concoctions here. The simplicity of the drinks allows each ingredients' flavor to take center stage.
 
 The Classic Black milk tea tastes like good black milk tea. When you put together a strong black tea, Strauss milk, and simple syrup, there is simply no room for error. The tea has a signature slight roast flavor and a rich milk that makes the tea oh so smooth and silky. Nothing earth-shattering, but “tea with milk” is really the extent of what I expect out of “milk tea”.
 
@@ -45,6 +45,8 @@ $5.70 for a Classic Black with boba. I define Boba Guys as the standard at which
 ### Conclusion
 
 The holy grail can provide everlasting life. But choose the wrong chalice and your life may very well end (<a href="https://youtu.be/LRSjKfvm368?t=10">me drinking bad boba</a>). More often than not, I am not looking for life or death boba. With the price of boba reaching $6 or $7, a bad drink, rather than complementing a beautiful day, can set it sour. So come time to pick a chalice, should I know a certain cup will always hold nothing but plain water, but damn good water at that, I'll have no shame in picking that glass and guzzling it down every time.
+
+Perhaps it's that no-frills look that has you lay down your guard. A deceptively plain-looking drink to set your expectations low… when out of left field comes that bang upon first sip. For its lack of colorful gimmicks, earning repute based on taste and quality alone, it has my respect.
 
 Boba Guys makes good boba look trivial. But after having had bad boba after bad boba across the country, clearly it is not so. So when I go out and I have a craving for boba, I need look no further than Boba Guys for a good cup. Boba Guys sets the bar high for the bare basics.
 
