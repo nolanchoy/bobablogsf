@@ -51,13 +51,13 @@ Quantiles can be thought of as dividing all your prices into 4 buckets each with
 
 $ is made up of everything below Q1 (quantile 1). A drink in the bottom 1/4th of all prices will be considered $. 
 
-$$ is made up of everything between Q1 and Q3, 50% of all datapoints will live here and this will be considered the standard price. Not necessarily a bargain and not necessarily overpaying. This is a good value for your drink.
+$$ is made up of everything between Q1 and Q3. 50% of all datapoints will live here and this will be considered the standard price. Not necessarily a bargain and not necessarily overpaying. This is a good value for your drink.
 
 $$$ is made up of everything between Q3 and Q4. The top 1/4th of all prices will be considered $$$. This is where you might think twice about how much you are paying as this is more than your average drink.
 
-$$$$ is made up of everything above Q4. This is where a shop had better be coming up with something really unique, maybe with a twist. This is likely not your average Thai Tea and if it is, then this is a sign to run for the hills.
+$$$$ is made up of everything above Q4, technically outliers. This is where a shop had better be coming up with something novel, something unique that pushes the maximum of what boba can be. This is likely not your average Thai Tea and if it is, then this is a sign to run for the hills.
 
-You might be wondering what about outliers on the lower end, or prices below Q1. This is unlikely due to prices having a minimum price cap, with considerations to the cost of materials and business margins, pricing will be right skewed with a long upper tail. If there does exist by some miracle an outlier below Q1, we will consider this in the “basically free” category.
+You might be wondering, "Well what about outliers on the lower end?", or prices below Q1. This is unlikely to ever be the case due to prices having a minimum price cap, with considerations to the cost of materials and business margins, pricing will be right skewed with a long upper tail. If there does exist by some miracle an outlier below Q1, we will consider this in the not-yet-existent “basically free” category.
 
 <a href="../../bobalytics">
 <img alt="Bobalytics" src="/img/thaitea/dash.png"
