@@ -11,7 +11,7 @@ I know your frustration! I too have stared blankly, for countless hours at the v
 
 As a part of this series, I’ll be setting my own clearly-defined price guidance, breaking open that untouched “$$$” and even "$$$$" real estate.
 
-This week I’ll be taking a look at Thai Iced Tea specifically, where I once made the bold assertion that you would be hard pressed to find one cheaper than the $4 DragonEats Thai Tea. 
+This week I’ll be taking a look at Thai Iced Tea specifically, where I <a href="/posts/dragoneats">once</a> made the bold assertion that you would be hard pressed to find one cheaper than the $4 DragonEats Thai Tea. 
 
 Below is an analysis on Thai Tea drinks from 63 vendors around the Bay Area with hand-validated prices.
 
@@ -28,7 +28,7 @@ The standard process of validating prices was either aligning with prices via on
 ## My Thai Tea Pricing Guide
 
 <a href="../../bobalytics">
-<img alt="Boba Guys" src="/img/thaitea/prices.png"
+<img alt="Bobalytics" src="/img/thaitea/prices.png"
      width="1000" 
      height="1000"/>
 </a>
@@ -60,7 +60,7 @@ $$$$ is made up of everything above Q4. This is where a shop had better be comin
 You might be wondering what about outliers on the lower end, or prices below Q1. This is unlikely due to prices having a minimum price cap, with considerations to the cost of materials and business margins, pricing will be right skewed with a long upper tail. If there does exist by some miracle an outlier below Q1, we will consider this in the “basically free” category.
 
 <a href="../../bobalytics">
-<img alt="Boba Guys" src="/img/thaitea/dash.png"
+<img alt="Bobalytics" src="/img/thaitea/dash.png"
      width="1000" 
      height="1000"/>
 </a>
@@ -68,12 +68,12 @@ You might be wondering what about outliers on the lower end, or prices below Q1.
 ## Best Thai Tea in SF?
 
 <a href="../../bobalytics">
-<img alt="Boba Guys" src="/img/thaitea/price_v_rating.png"
+<img alt="Bobalytics" src="/img/thaitea/price_v_rating.png"
      width="1000" 
      height="1000"/>
 </a>
 
-Prices alone cannot indicate how good a thai tea is. Certainly you will have overpriced teas that are of lesser quality and cheap teas of great quality. But comparing Yelp ratings with the price of Thai Tea might give us a clue into where we might find the "best" Thai Tea. I had also mentioned in my DragonEats post that a drop in price might also coincide with a drop in quality. This hypothesis appears to be borne by the data as well.
+Prices alone cannot indicate how good a thai tea is. Certainly you will have overpriced teas that are of lesser quality and cheap teas of great quality. But comparing Yelp ratings with the price of Thai Tea might give us a clue into where we might find the "best" Thai Tea. I had also mentioned in my <a href="/posts/dragoneats">DragonEats post</a> that a drop in price might also coincide with a drop in quality. This hypothesis appears to be borne by the data as well.
 
 We can see there is a clear pattern. Higher Yelp ratings are strongly correlated with higher prices. Perhaps it is to be expected that paying for higher priced drinks also pays for higher quality, making the paradoxical cheap and high quality teas an even more noteworthy exception to the trend. 
 
