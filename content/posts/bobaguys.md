@@ -7,7 +7,7 @@ tags: ['boba', 'strawberrymatchalatte', 'bobaguys', 'reviews']
 description: "A deceptively simple formula to be a top contender for the best bubble tea in San Francisco"
 ---
 
-What is the best bubble tea in San Francisco? This is one of the central questions that this blog will attempt to answer. My first nomination to this high title may be a contentious one. This is no local gem in need of an endorsement, no hole in the wall small fry trying to make it big. No, none of those. But here on this blog, the only qualifications are two, 1. the shop is in San Francisco, and 2. they sell boba. Today I will lay out arguments for and against Boba Guys.
+Where is the best bubble tea in San Francisco? This is one of the central questions that this blog will attempt to answer. My first nomination to this high title may be a contentious one. This is no local gem in need of an endorsement, no hole in the wall small fry trying to make it big. No, none of those. But here on this blog, the only qualifications are two, 1. the shop is in San Francisco, and 2. they sell boba. Today I will lay out arguments for and against Boba Guys.
 
 Boba Guys finds itself this blog’s first nomination to “best boba in San Francisco” by its deceptively simple but consistently sharp arsenal of drinks, making it no surprise it has built itself a stronghold in the Bay Area’s bobaverse and beyond.
 
