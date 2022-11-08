@@ -10,7 +10,7 @@ description: "A great bubble tea shop in San Francisco… but only if you happen
      width="800" 
      height="400"/>
 
-Let me be clear. I highly recommend the tea from this shop. SimplexiTea offers a small selection high quality tea and boba leaving little to be desired except a second serving. The tea has a strong flavor, indicative of a quality roast, and a fresh brew. The boba is tender, chewy, plump and sweet; just right. The Hong Kong style milk tea also has a strong tea flavor, and a unique profile distinct from the classic black milk tea with its signature condensed/evaporated milk.
+Make no mistake, I highly recommend the tea from this shop. SimplexiTea offers a small selection high quality tea and boba leaving little to be desired except a second serving. The tea has a strong flavor, indicative of a quality roast, and a fresh brew. The boba is tender, chewy, plump and sweet; just right. The Hong Kong style milk tea also has a strong tea flavor, and a unique profile distinct from the classic black milk tea with its signature condensed/evaporated milk.
 
 On tea and flavor alone this shop is hitting high marks.
 
