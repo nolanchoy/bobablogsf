@@ -38,7 +38,7 @@ Perhaps it is catering to the Twitter employees across the street who need a qui
 
 ### Location
 
-Unlike many shops around the bay nested in interesting neighborhoods to walk through, SimplexiTea has all the charms of the Van Ness & Market St intersection and of Civic Center… that is to say none at all. It’s too far from Hayes Valley to make it relevant to that neighborhood when there are already good shops closer by. With a stale atmosphere, the only audience this shop could attract would be those visiting Civic Center, tech and twitter employees (perhaps a comfort drink to your layoff), or nearby residents of the new apartment complexes.l
+Unlike many shops around the bay nested in interesting neighborhoods to walk through, SimplexiTea has all the charms of the Van Ness & Market St intersection and of Civic Center… that is to say none at all. It’s too far from Hayes Valley to make it relevant to that neighborhood when there are already good shops closer by. With a stale atmosphere, the only audience this shop could attract would be those visiting Civic Center, tech and twitter employees (perhaps a comfort drink to your layoff), or nearby residents of the new apartment complexes.
 
 ## Conclusion
 
