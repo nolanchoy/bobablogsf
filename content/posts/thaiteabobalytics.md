@@ -1,6 +1,7 @@
 ---
 title: "Thai Tea Price Guide"
 date: 2022-11-03T10:00:30-07:00
+header_img: "img/thaitea/header.jpg"
 categories: ['Price Guide']
 tags: ['thaitea', 'priceguide', 'bobalytics']
 description: "What is the right price for a Thai Tea? What is the cheapest Thai Tea in SF? What is considered expensive?"
@@ -86,3 +87,13 @@ TiBear claims the title of highest priced drink on this list with a whopping $$$
 Chome comes in second for highest priced drink with its Thai Iced Tea. From its description as "Freshly Brewed Thai Tea, half and half, and whipped cream", it sounds like a fairly average Thai Tea with an astronomical price. The cost of getting a beverage at a fancy restaurant? No clue.
 
 The two 5 star reviews included here are both in the "$" range. These are Tea Plus Tea Bar who's high Yelp rating I might chop up to it's low review count of 8– or maybe it truly is that great. The other is Sweet Glory, with 114 reviews. Something special must be brewing there to land it a high review count, a perfect rating, and a "$" Thai Tea. This has certainly been added to my list of places to try in the near future.
+
+<hr class="solid" style ="border-top: 2px solid #bbb">
+Leave me a <a href="../../contact">comment</a> about what you think!
+
+Visit <a href="../../bobalytics">bobalytics</a> for a thai tea deep dive! 
+
+<small>
+     Photo by 
+     <a href="https://unsplash.com/@joniastin?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Jony Ariadi</a> on <a href="https://unsplash.com/s/photos/thai-tea?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+</small>

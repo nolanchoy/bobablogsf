@@ -12,7 +12,7 @@ Let me get this straight... Your first review on a "boba blog" is of a drink tha
 Let the scandals and the gossip fly, for they hold no bearing over me. I will speak this truth: from price to taste, DragonEats' Thai Iced Tea fires on all cylinders and is an audacious rebuttal to all the bloated priced boba drinks around the Bay Area.
 
 ### Multiverse of Cheapness
-If there are infinite universes and infinite possibilities, then DragonEats' Thai Iced Tea exists in an alternate timeline where Covid-19 never happened and price inflation is but a myth. By some divine intervention, the $4 price tag seen from 2018 menu pictures has remained consistent through to 2022 (knock on wood). Around San Francisco, the standard price for a good thai iced tea is $5. Any less and one might expect lesser quality or taste. Yet DragonEats proves that $5 is not the price floor for good tea in the Bay.  Maybe more an indication of the price levels in San Francisco, but I would be hard-pressed to find any other boba/tea drink at this price-point for this quality.
+If there are infinite universes and infinite possibilities, then DragonEats' Thai Iced Tea exists in an alternate timeline where Covid-19 never happened and price inflation is but a myth. By some divine intervention, the $4 price tag seen from 2018 menu pictures has remained consistent through to 2022 (knock on wood). Around San Francisco, <a href="/posts/thaiteabobalytics">the standard price</a> for a good thai iced tea is $5. Any less and one might expect lesser quality or taste. Yet DragonEats proves that $5 is not the price floor for good tea in the Bay.  Maybe more an indication of the price levels in San Francisco, but I would be hard-pressed to find any other boba/tea drink at this price-point for this quality.
 
 ### Diamond In The Rough
 Let's get the rough out of the way. Spend 5 minutes with a paper straw, and your joy will turn as soggy as the straw. There is no beating around the bush. I do not enjoy sipping out of a limp noodle. Nobody does. In any universe or any timeline.
@@ -25,13 +25,17 @@ DragonEats serves their tea with half-and-half. I admit, in my view, condensed m
 
 Overall a wonderfully strong thai iced tea with an otherworldly price for San Francisco.
 
-Price: 10/10
+Price: $
 
 Taste: 9/10
 
 Straw: flaccid/10
 
+Overall: 9.5/10
+
 <hr class="solid" style ="border-top: 2px solid #bbb">
+Leave me a <a href="../../contact">comment</a> about what you think!
+
 View the location, yelp link, and other boba reviews on my <a href="../../map">map!</a><br>
 
 <small>

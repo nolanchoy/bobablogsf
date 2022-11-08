@@ -58,9 +58,13 @@ Taste: 8/10
 
 Boba: 10/10
 
-Price: 7/10
+Price: $$
 
 Straw: Bamboo/10
 
+Overall: 8.5/10
+
 <hr class="solid" style ="border-top: 2px solid #bbb">
+Leave me a <a href="../../contact">comment</a> about what you think!
+
 View the location, yelp link, and other boba reviews on my <a href="../../map">map!</a><br>
