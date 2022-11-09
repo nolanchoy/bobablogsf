@@ -13,9 +13,9 @@ menu:
       name: Blog
       url: /posts/
       weight: 10
-    - identifier: categories
-      name: Categories
-      url: /categories/
+    - identifier: tags
+      name: Tags
+      url: /tags/
       weight: 20
     - identifier: map
       name: Map
