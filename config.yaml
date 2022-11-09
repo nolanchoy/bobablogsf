@@ -53,6 +53,5 @@ outputs:
   home: ["HTML", "JSON", "RSS"]
 
 permalinks:
-  mango_bobalytics.html: /mango_bobalytics/
-  thai_tea_bobalytics.html: /thai_tea_bobalytics/
+  /: /:filename
 
