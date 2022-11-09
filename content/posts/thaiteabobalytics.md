@@ -7,7 +7,7 @@ categories: ['Price Guide']
 tags: ['thaitea', 'priceguide', 'bobalytics']
 description: "What is the right price for a Thai Tea? What is the cheapest Thai Tea in SF? What is considered expensive?"
 ---
-Welcome to the “What Is The Price” Series where I will be exploring the right price for bubble tea and boba drinks around San Francisco. All of this can be explored in the <a href="../../thai_tea_bobalytics.html">Bobalytics Dashboard</a>. Find out which stores sell Thai Teas and for how much!
+Welcome to the “What Is The Price” Series where I will be exploring the right price for bubble tea and boba drinks around San Francisco. All of this can be explored in the <a href="../../thai_tea_bobalytics">Bobalytics Dashboard</a>. Find out which stores sell Thai Teas and for how much!
 
 I know your frustration! I too have stared blankly, for countless hours at the vague and unhelpful $ and $$ categories on Yelp. What is “$”? What is “cheap” for boba? What is “expensive”? If you haven’t browsed Yelp for boba prices recently, to catch you up to speed, you will NEVER see a boba store labelled $$$, with all shops falling under either $ or $$. As you can imagine, binary classifications like these offer little flexibility to say what is ridiculously expensive and what is a penny-pinching steal. Has this indecisive nomenclature been the perfect cover to allow rogue tea shops to raise prices unchecked? Doubtfully… Regardless, let us burn away one more shelter for these runaway prices. Let us expose them. Let us cast holy judgement on $10 bobas and uplift $4 saints in these trying times.
 
@@ -29,7 +29,7 @@ The standard process of validating prices was either aligning with prices via on
 
 ## My Thai Tea Pricing Guide
 
-<a href="../../thai_tea_bobalytics.html">
+<a href="../../thai_tea_bobalytics">
 <img alt="Bobalytics" src="/img/thaitea/prices.png"
      width="1000" 
      height="1000"/>
@@ -61,7 +61,7 @@ $$$$ is made up of everything above Q4, technically outliers. This is where a sh
 
 You might be wondering, "Well what about outliers on the lower end?", or prices below Q1. This is unlikely to ever be the case due to prices having a minimum price cap, with considerations to the cost of materials and business margins, pricing will be right skewed with a long upper tail. If there does exist by some miracle an outlier below Q1, we will consider this in the not-yet-existent “basically free” category.
 
-<a href="../../thai_tea_bobalytics.html">
+<a href="../../thai_tea_bobalytics">
 <img alt="Bobalytics" src="/img/thaitea/dash.png"
      width="1000" 
      height="1000"/>
@@ -69,7 +69,7 @@ You might be wondering, "Well what about outliers on the lower end?", or prices 
 
 ## Best Thai Tea in SF?
 
-<a href="../../thai_tea_bobalytics.html">
+<a href="../../thai_tea_bobalytics">
 <img alt="Bobalytics" src="/img/thaitea/price_v_rating.png"
      width="1000" 
      height="1000"/>
@@ -92,7 +92,7 @@ The two 5 star reviews included here are both in the "$" range. These are Tea Pl
 <hr class="solid" style ="border-top: 2px solid #bbb">
 Leave me a <a href="../../contact">comment</a> about what you think!
 
-Visit <a href="../../thai_tea_bobalytics.html">bobalytics</a> for a thai tea deep dive! 
+Visit <a href="../../thai_tea_bobalytics">bobalytics</a> for a thai tea deep dive! 
 
 <small>
      Photo by 

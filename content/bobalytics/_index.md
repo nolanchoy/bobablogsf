@@ -5,9 +5,9 @@ draft: false
 header_img: "img/bobalytics/header.png"
 ---
 
-## <a href="../../thai_tea_bobalytics.html">Thai Tea</a>
+## <a href="../../thai_tea_bobalytics">Thai Tea</a>
 
-## <a href="../../mango_bobalytics.html">Mango Drinks</a>
+## <a href="../../mango_bobalytics">Mango Drinks</a>
 
 <br>
 
