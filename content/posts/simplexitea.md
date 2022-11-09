@@ -50,7 +50,7 @@ Taste: 8/10
 
 Boba: 10/10
 
-Atmosphere: Death Star Cafeteria/10
+Atmosphere: Death Star Cafeteria/10 <small>(1/10)</small>
 
 Price: $$
 
