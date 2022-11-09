@@ -25,10 +25,8 @@ menu:
         map.html: /map/
     - identifier: bobalytics
       name: Bobalytics
-      url: /bobalytics.html/
+      url: /bobalytics/
       weight: 40
-      permalinks:
-        bobalytics.html: /bobalytics/
     - identifier: contact
       name: Contact
       url: /contact/
@@ -53,3 +51,8 @@ markup:
 
 outputs:
   home: ["HTML", "JSON", "RSS"]
+
+permalinks:
+  mango_bobalytics.html: /mango_bobalytics/
+  thai_tea_bobalytics.html: /thai_tea_bobalytics/
+
