@@ -2,6 +2,7 @@
 title: "Blog Mission"
 date: 2022-10-25T08:20:26-07:00
 draft: false
+author: "Bobaman"
 tags: ['blogmission', 'map']
 description: "My goals for this blog"
 ---

@@ -2,6 +2,7 @@
 title: "Thai Tea Price Guide"
 date: 2022-11-03T10:00:30-07:00
 header_img: "img/thaitea/header.jpg"
+author: "Bobaman"
 categories: ['Price Guide']
 tags: ['thaitea', 'priceguide', 'bobalytics']
 description: "What is the right price for a Thai Tea? What is the cheapest Thai Tea in SF? What is considered expensive?"

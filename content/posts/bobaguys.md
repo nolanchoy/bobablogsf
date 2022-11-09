@@ -2,6 +2,7 @@
 title: "Boba Guys Review"
 date: 2022-10-27T17:52:14-07:00
 draft: false
+author: "Bobaman"
 categories: ['Review']
 tags: ['boba', 'strawberrymatchalatte', 'bobaguys', 'reviews']
 description: "A deceptively simple formula to be a top contender for the best bubble tea in San Francisco"
