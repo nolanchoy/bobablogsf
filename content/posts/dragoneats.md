@@ -35,7 +35,7 @@ Straw: flaccid/10
 Overall: 9.5/10
 
 <hr class="solid" style ="border-top: 2px solid #bbb">
-Leave me a <a href="../../contact">comment</a> about what you think and subscribe below to my mailing list to stay notified about new posts!
+Leave me a <a href="../../contact">comment</a> about what you think, and subscribe below to my mailing list to stay notified about new posts!
 
 View the location, yelp link, and other boba reviews on my <a href="../../map">map!</a><br>
 

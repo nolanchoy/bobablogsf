@@ -91,7 +91,7 @@ Coming in second highest in the price book is Little Sweet’s $8.5 Mango Sago. 
 Mangos and milk is a dangerously delicious combo! So come time to treat yourself to a once-in-a-while dessert drink or even a mid-day treat, by all means, don’t hold back. All I hope is that this guide puts prices in perspective for yours and my own curiosity.
 
 <hr class="solid" style ="border-top: 2px solid #bbb">
-Leave me a <a href="../../contact">comment</a> about what you think and subscribe below to my mailing list to stay notified about new posts!
+Leave me a <a href="../../contact">comment</a> about what you think, and subscribe below to my mailing list to stay notified about new posts!
 
 Visit <a href="../../mango_bobalytics">bobalytics</a> for a mango drink deep dive and be sure to check out my other <a href="../../categories/price-guide/">Price Guides</a>!
 
