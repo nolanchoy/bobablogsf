@@ -63,13 +63,15 @@ $$$ is made up of everything between Q3 and Q4. The top 1/4th of all prices will
      height="1000"/>
 </a>
 
-Not all mango drinks are created equal. Within this class of drinks there are 3 subclasses I have defined as Slushes, Latte/Smoothies, and Sagos (the most direct translation of dessert to drink) Specific Price Guidance for these drinks can be found in the “Subclass Price Summary” tab of the <a href="../../mango_bobalytics">Bobalytics</a>. But to summarize:
+Not all mango drinks are created equal. Within this umbrella class of mango drinks, I have defined 3 subclasses of Slushes, Latte/Smoothies, and Sagos. Specific price guidance for these drinks can be found in the “Subclass Price Summary” tab of the <a href="../../mango_bobalytics">Bobalytics</a> dashboard. But to summarize:
 
-**Median Mango Slush Price:** $5.5
+**Median Mango <u>Slush</u> Price:** $5.5
 
-**Median Mango Sago Price:** $7.25
+**Median Mango <u>Sago</u> Price:** $7.25
 
-**Median Mango Latte/Smoothie Price:** $6.5
+**Median Mango <u>Latte/Smoothie</u> Price:** $6.5
+
+Sagos being the most direct translation of dessert to drink, these are the highest priced subclass of the mango beverage taxon. Then on the opposite end, the milk-less slushes are the lowest priced of the subclasses.
 
 ### Price Soft Cap?
 
