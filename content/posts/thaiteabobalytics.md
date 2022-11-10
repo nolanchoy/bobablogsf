@@ -95,9 +95,9 @@ Chome comes in second for highest priced drink with its Thai Iced Tea. From its 
 The two 5 star reviews included here are both in the "$" range. These are Tea Plus Tea Bar who's high Yelp rating I might chop up to it's low review count of 8– or maybe it truly is that great. The other is Sweet Glory, with 114 reviews. Something special must be brewing there to land it a high review count, a perfect rating, and a "$" Thai Tea. This has certainly been added to my list of places to try in the near future.
 
 <hr class="solid" style ="border-top: 2px solid #bbb">
-Leave me a <a href="../../contact">comment</a> about what you think!
+Leave me a <a href="../../contact">comment</a> about what you think and subscribe below to my mailing list to stay notified about new posts!
 
-Visit <a href="../../thai_tea_bobalytics">bobalytics</a> for a thai tea deep dive! And be sure to check out my other <a href="../../categories/price-guide/">Price Guides</a>!
+Visit <a href="../../thai_tea_bobalytics">bobalytics</a> for a thai tea deep dive and be sure to check out my other <a href="../../categories/price-guide/">Price Guides</a>!
 
 <small>
      Photo by 
