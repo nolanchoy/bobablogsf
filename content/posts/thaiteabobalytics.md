@@ -82,8 +82,8 @@ We can see there is a clear pattern. Higher Yelp ratings are strongly correlated
 Of course, one caveat is that ratings are for the whole store, ambiance, service, and others drinks included. Those factors still play a role in creating the "best" drink, but ratings are not a direct measure of Thai Teas.
 
 <img alt="mango" src="/img/thaitea/thai1.png"
-     width="500" 
-     height="500"/>
+     width="400" 
+     height="400"/>
 </a>
 
 To answer my initial question, DragonEats does in fact have the cheapest Thai Tea in town to my knowledge and finds itself on that sweet margin of high ratings (4 stars) and cheap prices ($).

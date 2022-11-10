@@ -15,8 +15,8 @@ In the <a href="../thaiteabobalytics">last edition</a> of “What is the Price?�
 Mango sagos in particular, and other mango-coconut milk drinks, are a derivation of the popular Hong Kong mango pomelo sago dessert puddings. These creamy desserts are made using palm starch pearls called sago, coconut milk, mango, and pomelo, a less bitter twin of the grapefruit. But, mangos and milk is certainly no flavor combination owed entirely to the Hong Kong-based dessert. Mango Lassis, though not included on this list (maybe in the future), are proof that creamy mango drinks are universally loved! What better companion to an already creamy fruit than more cream! But enough talking about drink backgrounds like I’m some well travelled Food Network host. Getting down to brass tacks, how much does liquid mango really cost?
 
 <img alt="mango" src="/img/mango/mango1.png"
-     width="500" 
-     height="500"/>
+     width="400" 
+     height="300"/>
 </a>
 
 Below is an analysis on mango drinks from 60 vendors around the Bay Area with hand-validated prices. 
