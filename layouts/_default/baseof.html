@@ -113,7 +113,6 @@
       <!-- Sidebar Container -->
       <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1
       sidebar-container">
-        {{ partial "banner.html" . }}<br>
         <!-- Featured Tags -->
         {{ partial "featured-tags.html" . }}
         <!-- Friends Blog -->
@@ -141,7 +140,7 @@
 
     </div>
     {{ if .IsHome }}<br>
-      {{ partial "banner.html" . }}<br>
+      {{ partial "banner.html" . }}
     {{end}}
   </div>
 
