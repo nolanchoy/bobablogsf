@@ -6,6 +6,7 @@ header_img: "img/mango/header.png"
 author: "Bobaman"
 categories: ['Price Guide']
 tags: ['mango', 'priceguide', 'bobalytics']
+description: "What is the right price for a Mango Sago? What is the cheapest mango drink in SF? What is considered expensive?"
 ---
 
 It’s mango madness! From mango slushies targeting the lower end of the price spectrum to the new craze of mango pomelo sago drinks targeting crazy rich asians, this week were taking a look at mango dessert drinks (non-tea mango drinks) for the second entry to my series, “What is the Price?” This is the series where I painstakingly collect hundreds of menu prices to create a clearly defined price guide for SF boba drinks. Check out the mango drink deep dive in the <a href="../../mango_bobalytics">Bobalytics</a> dashboard.
