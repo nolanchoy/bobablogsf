@@ -81,6 +81,11 @@ We can see there is a clear pattern. Higher Yelp ratings are strongly correlated
 
 Of course, one caveat is that ratings are for the whole store, ambiance, service, and others drinks included. Those factors still play a role in creating the "best" drink, but ratings are not a direct measure of Thai Teas.
 
+<img alt="mango" src="/img/thaitea/thai1.png"
+     width="500" 
+     height="500"/>
+</a>
+
 To answer my initial question, DragonEats does in fact have the cheapest Thai Tea in town to my knowledge and finds itself on that sweet margin of high ratings (4 stars) and cheap prices ($).
 
 TiBear claims the title of highest priced drink on this list with a whopping $$$$ $8.75 specialty drink called Thai Tea Tornado. The store describes it as a "Classic thai milk tea with puff cream and black sugar boba. Top[ped] with thai tea ice cream." A full dessert treat may be worthy of that $8.75 price sticker.
@@ -92,7 +97,7 @@ The two 5 star reviews included here are both in the "$" range. These are Tea Pl
 <hr class="solid" style ="border-top: 2px solid #bbb">
 Leave me a <a href="../../contact">comment</a> about what you think!
 
-Visit <a href="../../thai_tea_bobalytics">bobalytics</a> for a thai tea deep dive! 
+Visit <a href="../../thai_tea_bobalytics">bobalytics</a> for a thai tea deep dive! And be sure to check out my other <a href="../../categories/price-guide/">Price Guides</a>!
 
 <small>
      Photo by 
