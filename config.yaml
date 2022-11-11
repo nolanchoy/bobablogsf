@@ -32,7 +32,7 @@ params:
   img_home: "img/home.png"
   img_404: "img/tyler-nix-ArW7pJRYw7Q-unsplash.jpg"
   useFaviconGenerator: true
-  description: A place to stay up to date about San Francisco boba and boba-adjacent drinks
+  description: A place to stay up to date about the best boba and boba-adjacent drinks in San Francisco
   keywords: "blog,boba,san francisco,bubble tea,tea,personal"
   enableRobotsTXT: true
 
@@ -51,3 +51,7 @@ outputs:
 permalinks:
   /: /:filename
 
+sitemap:
+  changefreq: monthly
+  filename: sitemap.xml
+  priority: 0.5
