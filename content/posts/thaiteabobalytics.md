@@ -90,7 +90,7 @@ To answer my initial question, DragonEats does in fact have the cheapest Thai Te
 
 TiBear claims the title of highest priced drink on this list with a whopping $$$$ $8.75 specialty drink called Thai Tea Tornado. The store describes it as a "Classic thai milk tea with puff cream and black sugar boba. Top[ped] with thai tea ice cream." A full dessert treat may be worthy of that $8.75 price sticker.
 
-Chome comes in second for highest priced drink with its Thai Iced Tea. From its description as "Freshly Brewed Thai Tea, half and half, and whipped cream", it sounds like a fairly average Thai Tea with an astronomical price. The cost of getting a beverage at a fancy restaurant? No clue.
+Chome comes in second for highest priced drink with its $8 Thai Iced Tea. From its description as "Freshly Brewed Thai Tea, half and half, and whipped cream", it sounds like a fairly average Thai Tea with an astronomical price. The cost of getting a beverage at a fancy restaurant? No clue.
 
 The two 5 star reviews included here are both in the "$" range. These are Tea Plus Tea Bar who's high Yelp rating I might chop up to it's low review count of 8– or maybe it truly is that great. The other is Sweet Glory, with 114 reviews. Something special must be brewing there to land it a high review count, a perfect rating, and a "$" Thai Tea. This has certainly been added to my list of places to try in the near future.
 
