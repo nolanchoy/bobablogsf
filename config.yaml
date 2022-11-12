@@ -28,6 +28,8 @@ menu:
       url: /contact/
       weight: 50
 
+enableEmoji: true
+
 params:
   img_home: "img/home.png"
   img_404: "img/tyler-nix-ArW7pJRYw7Q-unsplash.jpg"
