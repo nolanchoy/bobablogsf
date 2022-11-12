@@ -102,7 +102,11 @@
   <!-- Main Content -->
   <div class="container">
     <!-- Sub Banner -->
-
+    {{ if .IsHome }}<br>
+    <div class="justify-content-center flex-grow-1">
+      {{ partial "featured.html" . }}<hr>
+    </div>
+    {{end}}
     <div class="row">
       {{ if eq .Site.Params.sidebar.enable false }}
 
