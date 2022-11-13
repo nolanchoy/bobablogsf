@@ -18,4 +18,5 @@ Photo by
 Icon:
 <a href="https://www.flaticon.com/free-icons/bubble-tea" title="bubble tea icons">Bubble tea icons created by justicon - Flaticon</a>
 <br>Profile: <a href="https://www.flaticon.com/free-icons/bubble-tea" title="bubble tea icons">Bubble tea icons created by Freepik - Flaticon</a>
+<br>Mango Map Icon: <a href="https://www.flaticon.com/free-icons/mango" title="mango icons">Mango icons created by Freepik - Flaticon</a>
 </small>
