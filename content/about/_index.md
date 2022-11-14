@@ -2,6 +2,7 @@
 title: "About Me"
 date: 2022-10-25T12:41:49-07:00
 draft: false
+header_img: "img/about/header.png"
 ---
 My name is Nolan. Welcome to my blog!
 
