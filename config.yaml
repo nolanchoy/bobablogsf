@@ -23,9 +23,9 @@ menu:
       name: Bobalytics
       url: /bobalytics/
       weight: 40
-    - identifier: contact
-      name: Contact
-      url: /contact/
+    - identifier: about
+      name: About
+      url: /about/
       weight: 50
 
 enableEmoji: true
