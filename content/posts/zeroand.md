@@ -21,7 +21,7 @@ Other nearby stores include Urban Ritual a couple of blocks away, and Boba Guys 
 <img alt="Store" src="/img/zero&/store.png"
      style= "width: 90%"/>
 
-### Half-Brewed Icarus
+### Over-Brewed Icarus
 How does the myth go again? Icarus, the legendary Greek brewmaster, tried so hard to make the most radical juicy cocktails that he fell flat on his basics? No no. That’s not it. Icarus, warned of hubris, flew too close to the sun and drowned in the sea. Brutal.
 
 Zero& is by no means drowning, but could still stand to learn from the old greek myths and cautions. Its well-designed combos of fruit juices, slushes, creams, and teas makes for tough choices at the cash register. But Zero& has mixed performance when it comes to whether those drinks live up to their decadent ingredient list, menu monikers, and price tag. When done well, their drinks are near unrivaled in the Bay. This strength is in their flavors. Bold and brash. All of their drinks, good and sub-par alike, pack distinct flavors that highlight each drink’s profile. This is especially true with the fruit based drinks where the use of real fruits brings the out the best (juiciest) parts of the real deal.
