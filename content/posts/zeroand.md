@@ -8,7 +8,7 @@ tags: ['zero&', 'boba', 'passionlemonade', 'reviews']
 description: "Ambitious drinks, bold flavors, and an exotic menu in the heart of Hayes Valley, though occasionally missing the mark on the bare basics"
 ---
 
-Vibrant color combos, plastic clouds, layers and swirls— all eyes are on your drink as you walk down Hayes Street just coming from the “new” Zero&. The whimsical-looking fruit cocktails, only found at Zero&, are sure to draw you in. But, when it all does come together, the powerful flavors and the freshness of the fruit will make you stay. When it does come together seems to be up to the time and day. I’ve had some truly fantastic drinks and some others that miss the mark. Even so, Zero&’s attractive location and menagerie of exotic, eye-catching, and bold flavored drinks has me coming back for more, despite the sometimes hit-or-miss quality.
+Vibrant color combos, plastic clouds, layers and swirls— all eyes are on your drink as you walk down Hayes Street just coming from the relatively new Zero&. The whimsical-looking fruit cocktails, only found at Zero&, are sure to draw you in. But, when it all does come together, the powerful flavors and the freshness of the fruit will make you stay. When it does come together seems to be up to the time and day. I’ve had some truly fantastic drinks and some others that miss the mark. Even so, Zero&’s attractive location and menagerie of exotic, eye-catching, and bold flavored drinks has me coming back for more, despite the sometimes hit-or-miss quality.
 
 <img alt="Sign" src="/img/zero&/sign.png"
      style="width: 75%"/>
