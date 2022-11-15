@@ -36,12 +36,12 @@ But Icarus flew too high, unaware of the sea falling away from below him, melted
 The Teapuccino I ordered, presumably a mix of black tea and coffee (though it does not note any coffee in the description), was extremely bitter. No doubt bitterness is expected for a coffee and tea combo. But unlike the coffee/tea combos I’ve had elsewhere, where coffee adds a complementary, deeper, richer note to the tea, this bitterness was a brute-force overpowering of any delicate intricacies that might be found in their harmony. I would attribute this to overstepped tea or over-extracted coffee. The boba I had along with the Teapuccino, rather than an expected chewiness and tenderness, was overly soft and gummy– undeniably overcooked boba. I’ll chalk these up to my arrival an hour-ish to closing (by no means close to closing still, but later in the day) where this boba was likely drawn from the last batch made, and the tea/coffee pulled from the last brew. Still, for prices in the mid-tier to upper range, this is no excuse for sub-par drinks.
 
 <img alt="Teapuccino" src="/img/zero&/boba.png"
-     style= "width: 90%"/>
+     style= "width: 60%"/>
 
 Hayes Blue - Coconut milk, Coconut Juice, and Pea Flower Tea. There’s nothing inherently wrong with this drink. It’s just a very cute, small, overpriced, but refreshing coconut juice and coconut milk with a plastic cloud. The pea flower tea has no impact on the flavor of this drink— placing it on the margin of gimmicky and tourist-trappy for its investment in unique visuals more than its unique taste.
 
 <img alt="Hayes Blue" src="/img/zero&/hayes.png"
-     style= "width: 90%"/>
+     style= "width: 60%"/>
 
 ## Conclusion
 Not all drinks are created equal at Zero&, and it goes to show that the bare basics are often more challenging to master than even the higher end beverages. But where it does excel, in its collection of creative fruit drinks, it shines brighter than what most other boba shops in the city can do. Drinks like “Two Grapeful”, “Strawberry Marble” and “Baby Peach” are on my list of To Try’s. The bold flavors and exotic menu design will have me coming back like a Pokemon trainer trying to catch ‘em all. The Bay Area bobaverse is chock full of boba shops already, many doing the same thing. But even in the occasional instances where it falls flat, I commend Zero& for its creativity in its drink designs, in the audacity of its flavors, and for confidently carving out its own unique voice in this city. Hayes Valley is a great place to come to grab food and do some light shopping (window shopping if you have a budget like mine), and when I find myself in the area next time, I know that Zero& will be a must stop shop.
