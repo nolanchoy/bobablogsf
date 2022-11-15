@@ -14,7 +14,7 @@ Vibrant color combos, plastic clouds, layers and swirls— all eyes are on your 
      style="width: 75%"/>
 
 ### Heart of Hayes Valley
-The new tea shop made its debut in the otherwise largely un-boba-tapped neighborhood of Hayes Valley last December 2021. Likely due to high rents of the popular hip-and-happening location, Zero& is one of the only bubble tea stores in the neighborhood and is situated directly at the heart of Hayes Valley. Nested between fashion stores and restaurants, with the allure of the zany drinks coming out the door and the brightly lit beacon of a store itself, its no surprise that it’s still a popular attraction even a year after its opening. Depending on the time of day, sizable crowds will fill up the small store. Yet this hasn’t stopped great turn around times  for each drink order ~under 5 minutes. 
+The new tea shop made its debut in the otherwise largely un-boba-tapped neighborhood of Hayes Valley last December 2021. Likely due to high rents of the popular hip-and-happening location, Zero& is one of the only bubble tea stores in the neighborhood, but has strategically situated itself directly at the heart of Hayes Valley. Nested between fashion stores and restaurants, with the allure of the zany drinks coming out the door and the brightly lit beacon of a store itself, its no surprise that it’s still a popular attraction even a year after its opening. Depending on the time of day, sizable crowds will fill up the small store. Yet this hasn’t stopped great turn around times  for each drink order ~under 5 minutes. 
 
 Other nearby stores include Urban Ritual a couple of blocks away, and Boba Guys somewhat farther away, near Market St. Nothing gets closer to the center of Hayes Valley than this though.
 
