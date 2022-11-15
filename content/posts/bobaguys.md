@@ -4,7 +4,7 @@ date: 2022-10-27T17:52:14-07:00
 draft: false
 author: "Bobaman"
 categories: ['Review']
-tags: ['boba', 'strawberrymatchalatte', 'bobaguys', 'reviews']
+tags: ['bobaguys', 'boba', 'strawberrymatchalatte', 'reviews']
 description: "A deceptively simple formula to be a top contender for the best bubble tea in San Francisco"
 ---
 
@@ -20,7 +20,7 @@ There exists a “vibes” spectrum in which all San Francisco bubble tea shops 
 
 It’s that same unoffending look, though, that lacks a bit of soul — the one that panders to everyone and no one at the same time, oozing a shade of the sterile tech-bro culture (or lack thereof) sweeping major cities. Tis’ a struggle at the heart of any growing city and perhaps a topic for another time.
 
-<img alt="Boba Guys" src="/img/bobaguys.png"
+<img alt="Boba Guys" src="/img/bobaguys/bobaguys.png"
      width="200" 
      height="300"/>
 
@@ -34,7 +34,7 @@ Boba at boba guys has consistently had of some of the best quality boba pearls I
 
 The crown jewel for this chain is the strawberry matcha latte. Bright and earthy matcha layered atop quality milk layered atop house-made strawberry puree, this triple-tiered drink proves yet again that simplicity and quality ingredients reign supreme. I, myself, have taken to avoid mixing the drink to appreciate each flavor separately. A sip of matcha, of milk, or of strawberry and boba, or a blend, it matters not– this drink is an absolute must-try for anyone in need for a refreshing beverage to accompany them on their day.
 
-<img alt="Strawberry Matcha Latte" src="/img/bobaguys2.png"
+<img alt="Strawberry Matcha Latte" src="/img/bobaguys/bobaguys2.png"
      width="200" 
      height="300"/>
 
@@ -52,15 +52,15 @@ Perhaps it's that no-frills look that has you lay down your guard. A deceptively
 Boba Guys makes good boba look trivial. But after having had bad boba after bad boba across the country, clearly it is not so. So when I go out and I have a craving for boba, I need look no further than Boba Guys for a good cup. Boba Guys sets the bar high for the bare basics.
 
 Consistency: 9/10
-
+<br>
 Quality: 9/10
-
+<br>
 Taste: 8/10
-
+<br>
 Boba: 10/10
-
+<br>
 Price: $$
-
+<br>
 Straw: Bamboo/10
 
 Overall: 8.5/10

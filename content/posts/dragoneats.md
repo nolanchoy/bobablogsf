@@ -27,9 +27,9 @@ DragonEats serves their tea with half-and-half. I admit, in my view, condensed m
 Overall a wonderfully strong thai iced tea with an otherworldly price for San Francisco.
 
 Price: $
-
+<br>
 Taste: 9/10
-
+<br>
 Straw: flaccid/10
 
 Overall: 9.5/10

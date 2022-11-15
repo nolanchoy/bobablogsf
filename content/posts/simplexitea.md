@@ -46,14 +46,14 @@ Unlike many shops around the bay nested in interesting neighborhoods to walk thr
 Is good tea enough to make a boba shop a recommendation? SimplexiTea makes a strong case that tea alone is not the entire package. At the start of writing this review, I was writing a fully-backed endorsement for SimplexiTea, but as I continued to recount my experience, I have mixed feelings. It’s difficult to review a store whose tea I would wholeheartedly recommend, but whose store’s design language is so without care or heart that I can’t help but reconsider that recommendation. The tea is great, if not one of the best. If you are ordering delivery, a hands down recommendation. But for visiting, when the store meets only the bare minimum of being “a place that boba comes out of”, I can only recommend it if you happen to be in the area.
 
 Quality: 9/10
-
+<br>
 Taste: 8/10
-
+<br>
 Boba: 10/10
-
-Atmosphere: Death Star Cafeteria/10 <small>(1/10)</small>
-
+<br>
 Price: $$
+<br>
+Atmosphere: Death Star Cafeteria/10 <small>(1/10)</small>
 
 Overall: 7/10
 
