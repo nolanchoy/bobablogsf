@@ -17,7 +17,7 @@ This week I’ll be taking a look at Thai Iced Tea specifically, where I <a href
 
 Below is an analysis on Thai Tea drinks from 63 vendors around the Bay Area with hand-validated prices.
 
-<img alt="Boba Guys" src="/img/bobaguys.png"
+<img alt="Boba Guys" src="/img/bobaguys/bobaguys.png"
      width="200" 
      height="300"/>
 
