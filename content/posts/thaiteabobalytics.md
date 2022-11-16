@@ -7,7 +7,7 @@ categories: ['Price Guide']
 tags: ['thaitea', 'priceguide', 'bobalytics']
 description: "What is the right price for a Thai Tea? What is the cheapest Thai Tea in SF? What is considered expensive?"
 ---
-Welcome to the “What Is The Price” Series where I will be exploring the right price for bubble tea and boba drinks around San Francisco. All of this can be explored in the <a href="../../thai_tea_bobalytics">Bobalytics Dashboard</a>. Find out which stores sell Thai Teas and for how much!
+Welcome to the “What Is The Price” Series where I'll be exploring the right price for bubble tea and boba drinks around San Francisco. All of this can be explored in the <a href="../../thai_tea_bobalytics">Bobalytics Dashboard</a>. Find out which stores sell Thai Teas and for how much!
 
 I know your frustration! I too have stared blankly, for countless hours at the vague and unhelpful $ and $$ categories on Yelp. What is “$”? What is “cheap” for boba? What is “expensive”? If you haven’t browsed Yelp for boba prices recently, to catch you up to speed, you will NEVER see a boba store labelled $$$, with all shops falling under either $ or $$. As you can imagine, binary classifications like these offer little flexibility to say what is ridiculously expensive and what is a penny-pinching steal. Has this indecisive nomenclature been the perfect cover to allow rogue tea shops to raise prices unchecked? Doubtfully… Regardless, let us burn away one more shelter for these runaway prices. Let us expose them. Let us cast holy judgement on $10 bobas and uplift $4 saints in these trying times.
 
