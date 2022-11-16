@@ -1,8 +1,8 @@
 ---
 title: "Zero& Review"
-date: 2022-11-17T14:19:31-08:00
+date: 2022-11-17T00:00:00-00:00
 author: "Bobaman"
-draft: false
+draft: true
 categories: ['Review']
 tags: ['zero&', 'boba', 'passionlemonade', 'reviews']
 description: "Ambitious drinks, bold flavors, and an exotic menu in the heart of Hayes Valley, though occasionally missing the mark on the bare basics"
@@ -40,7 +40,7 @@ The Teapuccino I ordered, presumably a mix of black tea and coffee (though it do
 
 Hayes Blue - Coconut milk, Coconut Juice, and Pea Flower Tea. There’s nothing inherently wrong with this drink. It’s just a very cute, small, overpriced, but refreshing coconut juice and coconut milk with a plastic cloud. The pea flower tea has no impact on the flavor of this drink— placing it on the margin of gimmicky and tourist-trappy for its investment in unique visuals more than its unique taste.
 
-<img alt="Hayes Blue" src="/img/zero&/hayes.png"
+<img alt="Hayes Blue" src="/img/zero&/hayes.jpg"
      style= "width: 60%"/>
 
 ## Conclusion
