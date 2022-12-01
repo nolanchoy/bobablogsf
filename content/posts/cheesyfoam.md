@@ -7,22 +7,23 @@ categories: ['Ramblings']
 tags: ['cheesefoam', 'poetry']
 description: "A cheesy poem for a cheesy foam"
 ---
-
-Oh cheesy foam
-We’d only met this last month
-But in this short time I find that our love shines brighter than any before
-At first sight I was mildly perplexed
-“What kind of disgusting, sick freak adds cheese to their tea?”
-But you opened my eyes
-Opened my heart
-Showed me the way out of my cave
-Out of my arid mono-flavored drink desert
-The salty complimenting the sweet
-The gentle creamy melding with refreshing bliss
-A wild rollercoaster of flavors with every sip
-The yin and the yang
-The eb and the flow
-The topping to top them all
-Enter the bubble tea third dimension
-Oh cheesy foam where have you been all my life
+<p style = "text-align: center;">
+Oh cheesy foam<br>
+We’d only met this last month<br>
+But in this short time I find that our love shines brighter than any before<br>
+At first sight I was mildly perplexed<br>
+“What kind of disgusting, sick freak adds cheese to their tea?”<br><br>
+But you opened my eyes<br>
+Opened my heart<br>
+Showed me the way out of my cave<br>
+Out of my arid mono-flavored drink desert<br>
+The salty complimenting the sweet<br>
+The gentle creamy melding with refreshing bliss<br>
+A wild rollercoaster of flavors with every sip<br>
+The yin and the yang<br>
+The eb and the flow<br>
+The topping to top them all<br>
+Enter the bubble tea third dimension<br><br>
+Oh cheesy foam where have you been all my life 🧀🍦<br>
+</p>
 
