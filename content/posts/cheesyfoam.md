@@ -7,6 +7,7 @@ categories: ['Ramblings']
 tags: ['cheesefoam', 'poetry']
 description: "A cheesy poem for a cheesy foam"
 ---
+<h6 style = "text-align: center;">A cheesy poem for a cheesy foam</h6><hr>
 <p style = "text-align: center;">
 Oh cheesy foam<br>
 We’d only met this last month<br>
